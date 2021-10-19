@@ -1,0 +1,7 @@
+C:\Users\in5c01\Desktop>git branch -a
+  dev
+* main
+  master
+  remotes/origin/dev
+  remotes/origin/main
+  remotes/origin/master
